@@ -350,4 +350,4 @@ end   ###
 
 ## finish
 ActionController::Base.new.logger.info "** Erubis #{::Erubis::VERSION}"
-$stdout.puts "** Erubis #{::Erubis::VERSION}" if rails22
+#$stdout.puts "** Erubis #{::Erubis::VERSION}" if rails22
